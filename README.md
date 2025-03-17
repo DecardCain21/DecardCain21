@@ -28,6 +28,13 @@
   </tr>
 </table>
 
+## Мои проекты:
+BodyBalance - https://github.com/DecardCain21/BodyBalance/blob/master/README.md
+
+Job-Aggregator - https://github.com/DecardCain21/Job-Aggregator/blob/main/README.md
+
+PlaylistMaker - https://github.com/DecardCain21/PlaylistMaker/blob/master/README.md
+
 # Мой стек:
 <img src="https://img.shields.io/badge/Android-003442?style=for-the-badge&logo=Android&logoColor=E06F5D"/> <img src="https://img.shields.io/badge/Kotlin-003442?style=for-the-badge&logo=Kotlin&logoColor=E06F5D"/> <img src="https://img.shields.io/badge/Java-003442?style=for-the-badge&logo=&logoColor=E06F5D"/> <img src="https://img.shields.io/badge/Kotlin Coroutines-003442?style=for-the-badge&logo=&logoColor=E06F5D"/> <img src="https://img.shields.io/badge/ RxJava-003442?style=for-the-badge&logo=&logoColor=E06F5D"/> <img src="https://img.shields.io/badge/OkHttp-003442?style=for-the-badge&logo=&logoColor=E06F5D"/> <img src="https://img.shields.io/badge/REST API-003442?style=for-the-badge&logo=&logoColor=E06F5D"/> <img src="https://img.shields.io/badge/Retrofit-003442?style=for-the-badge&logo=&logoColor=E06F5D"/>
 

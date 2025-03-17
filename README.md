@@ -1,15 +1,33 @@
 ## Приветствую на моём профиле GitHub
 ### Меня зовут Марат, я занимаюсь Android 📱 разработкой
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://lh3.googleusercontent.com/a/ACg8ocIKFuYdc0FMIWBuJpeVVi4dlxbYqjdFkrbfktVPVjEa-PocRTo4=s288-c-no">
- <source media="(prefers-color-scheme: light)" srcset="https://lh3.googleusercontent.com/a/ACg8ocIKFuYdc0FMIWBuJpeVVi4dlxbYqjdFkrbfktVPVjEa-PocRTo4=s288-c-no">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://lh3.googleusercontent.com/a/ACg8ocIKFuYdc0FMIWBuJpeVVi4dlxbYqjdFkrbfktVPVjEa-PocRTo4=s288-c-no">
+        <source media="(prefers-color-scheme: light)" srcset="https://lh3.googleusercontent.com/a/ACg8ocIKFuYdc0FMIWBuJpeVVi4dlxbYqjdFkrbfktVPVjEa-PocRTo4=s288-c-no">
+        <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE" width="150">
+      </picture>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th align="right">Где</th>
+          <th>Контакты</th>
+        </tr>
+        <tr>
+          <td align="right">Email📧</td>
+          <td>maratgudozhnikov@gmail.com</td>
+        </tr>
+        <tr>
+          <td align="right">Telegram🗃️</td>
+          <td><a href="https://t.me/DeckardCainF">https://t.me/DeckardCainF</a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-| Где | Контакты |
-|-----:|---------------|
-|Email📧|maratgudozhnikov@gmail.com|
-|Telegram🗃️|https://t.me/DeckardCainF|
 # Мой стек:
 <img src="https://img.shields.io/badge/Android-003442?style=for-the-badge&logo=Android&logoColor=E06F5D"/> <img src="https://img.shields.io/badge/Kotlin-003442?style=for-the-badge&logo=Kotlin&logoColor=E06F5D"/> <img src="https://img.shields.io/badge/Java-003442?style=for-the-badge&logo=&logoColor=E06F5D"/> <img src="https://img.shields.io/badge/Kotlin Coroutines-003442?style=for-the-badge&logo=&logoColor=E06F5D"/> <img src="https://img.shields.io/badge/ RxJava-003442?style=for-the-badge&logo=&logoColor=E06F5D"/> <img src="https://img.shields.io/badge/OkHttp-003442?style=for-the-badge&logo=&logoColor=E06F5D"/> <img src="https://img.shields.io/badge/REST API-003442?style=for-the-badge&logo=&logoColor=E06F5D"/> <img src="https://img.shields.io/badge/Retrofit-003442?style=for-the-badge&logo=&logoColor=E06F5D"/>
 

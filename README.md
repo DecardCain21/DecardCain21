@@ -1,4 +1,4 @@
-## Приветствую на моём профиле GitHub | Welcome to my GitHub profile 👋
+## Приветствую на моём профиле GitHub
 ### Меня зовут Марат, я занимаюсь Android 📱 разработкой
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://lh3.googleusercontent.com/a/ACg8ocIKFuYdc0FMIWBuJpeVVi4dlxbYqjdFkrbfktVPVjEa-PocRTo4=s288-c-no">
